@@ -26,6 +26,7 @@
 		CBA4632F20DF671A00247473 /* xctwdiff */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = xctwdiff; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBA4633220DF671A00247473 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CBA4633920DFA1CA00247473 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CBA4633A20DFA70500247473 /* LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		CBA4632620DF671A00247473 = {
 			isa = PBXGroup;
 			children = (
+				CBA4633A20DFA70500247473 /* LICENSE.txt */,
 				CBA4633920DFA1CA00247473 /* README.md */,
 				CBA4633120DF671A00247473 /* xctwdiff */,
 				CBA4633020DF671A00247473 /* Products */,
